@@ -11,17 +11,12 @@ github_repo: "https://github.com/hy950921/hy950921.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "苟利国家生死以 岂因福祸避趋之"
-sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
+sidebar-about-description: "本命POI"
+sidebar-avatar: /img/poi.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
 github_username:    hy950921
-
-
-
 
 
 # Build settings
@@ -30,7 +25,6 @@ permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
 
 
 # Gems
@@ -68,8 +62,8 @@ friends: [
         title: "NVIDIA Developer",
         href: "https://developer.nvidia.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "GitHub",
+        href: "https://github.com/"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
