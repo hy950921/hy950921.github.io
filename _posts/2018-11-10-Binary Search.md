@@ -13,7 +13,7 @@ tags:
 
 >九章算法班 第二节：Binary Search
 
-# Time Complexity O(log n) 
+# Time Complexity O(log n), space complexity O(1)
 
 # 二分法模板四要素
     1.start + 1 < end
