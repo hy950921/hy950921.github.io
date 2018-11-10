@@ -24,7 +24,6 @@ tags:
 # Lintcode 14. First Position of Target 
 #### For a given sorted array (ascending order) and a target number, find the first index of this number in O(log n) time complexity. If the target number does not exist in the array, return -1.
     def binarySearch(self, nums, target):
-        # write your code here
         if not nums:
             return -1
 
