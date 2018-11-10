@@ -41,5 +41,5 @@ tags:
             return end
         return -1
        
-# 458. Last Position of Target
+# Lintcode 458. Last Position of Target
 #### Find the last position of a target number in a sorted array. Return -1 if target does not exist.
