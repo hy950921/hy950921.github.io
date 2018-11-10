@@ -13,7 +13,7 @@ tags:
 
 >九章算法班 第二节：Binary Search
 
-# O(logn) time complexity
+# Time Complexity O(log n) 
 
 # 二分法模板四要素
     1.start + 1 < end
@@ -21,7 +21,7 @@ tags:
     3.A[mid] ==,
     4.A[start] A[end] ? target
 
-# Lintcode 14. First Position of Target 
+# Lintcode 14. First Position of Target
 #### For a given sorted array (ascending order) and a target number, find the first index of this number in O(log n) time complexity. If the target number does not exist in the array, return -1.
     def binarySearch(self, nums, target):
         if not nums:
@@ -40,3 +40,6 @@ tags:
         elif nums[end] == target:
             return end
         return -1
+       
+# 458. Last Position of Target
+#### Find the last position of a target number in a sorted array. Return -1 if target does not exist.
