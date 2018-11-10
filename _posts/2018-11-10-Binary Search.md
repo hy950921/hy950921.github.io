@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      Binary Search
@@ -16,7 +15,7 @@ tags:
 
 
 # 二分法模板四要素
-  1.start + 1 < end
-  2.start + (end – start) / 2
-  3.A[mid] ==,
-  4.A[start] A[end] ? target
+    1.start + 1 < end
+    2.start + (end – start) / 2
+    3.A[mid] ==,
+    4.A[start] A[end] ? target
