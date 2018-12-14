@@ -15,4 +15,4 @@ tags:
 
 ### Dear Yu Han, Congratulations on your acceptance into the Master of Science in Computer Science for the Spring 2019 semester. This accomplishment brings you one step closer to our vision of educating the workforce of tomorrow and your own personal and professional goals.
 
-### High honor is waiting for me.
+#### High honor, all A+ and GPA 4.0!.
